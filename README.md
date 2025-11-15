@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durga Sai Koushik Matta</h1>
-<h3 align="center">👋, Hi I'm Durga Sai Koushik Matta, a Computer Science Engineering student with an enthusiasm to become a software engineer and an eagerness to learn and explore my skills in the industry. Throughout my studies, I have gained expertise in various ranges such as Python, Java and Web Technologies. I'm quick learner, hard worker, self motivator and enthusiastic about staying up to date with the latest technologies. Check out my projects and let's connect!</h3>
+<h3 align="center">👋, Hi I'm Durga Sai Koushik Matta, a Computer Science Engineering student with an enthusiasm to become a software engineer and an eager to learn and explore my skills in the industry. Throughout my studies, I have gained expertise in various ranges such as Python, Java and Web Technologies. I'm quick learner, hard worker, self motivator and enthusiastic about staying up to date with the latest technologies. Check out my projects and let's connect!</h3>
 
 <img align="right" alt="Coding" width="auto" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
